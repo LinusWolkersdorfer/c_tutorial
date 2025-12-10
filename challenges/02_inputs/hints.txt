@@ -1,0 +1,4 @@
+get used to 
+int argc, int *argv[]
+and
+string -> int
