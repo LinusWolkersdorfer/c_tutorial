@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-// TODO: implement 
+// TODO: implement durchschnitt and some example int the main
 
 typedef struct student {
     int matrikelnummer;
